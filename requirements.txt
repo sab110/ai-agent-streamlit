@@ -1,5 +1,5 @@
 flask
 crew
 crewai-tools
-dotenv
+python-dotenv
 re
