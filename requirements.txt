@@ -1,0 +1,5 @@
+flask
+crew
+crewai-tools
+dotenv
+re
