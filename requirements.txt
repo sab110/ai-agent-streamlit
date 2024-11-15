@@ -1,5 +1,3 @@
-flask
 crew
 crewai-tools
-python-dotenv
-re
+
